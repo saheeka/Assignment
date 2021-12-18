@@ -1,0 +1,45 @@
+.topbar{
+    margin: 10px;
+    width: 98%;
+    height: 70px;
+    background-color: rgb(242, 243, 236);
+    border-radius: 2%;
+}
+.topbarwrapper{
+    height: 100%;
+    padding: 0px 30px;
+    
+    display: flex;
+    align-items:center;
+    justify-content: space-between
+    
+}
+.search{
+    border-radius: 10px;
+    border: 0px;
+}
+.photo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.topright{
+    display: flex;
+    align-items: center;
+}
+.topbariconcontainer{
+    position: relative;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.topiconbadge{
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}

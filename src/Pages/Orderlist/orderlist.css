@@ -1,0 +1,39 @@
+
+.orderlist{
+    flex:4;
+   
+}
+.archive{
+    background-color: rgb(105, 233, 105);
+    border-radius: 20px;
+}
+h5{
+    font-weight: bold;
+    padding-left: 10px;
+}
+.topbarr{
+    margin: 6px;
+    width: 98%;
+    
+    
+    border-radius: 2%;
+}
+.toprightt{
+    margin-left: 67%;
+}
+.tablec{
+    padding-left: 50px;
+    padding-right: 50px;
+} 
+.topbarwrapperr{
+    
+    padding-top: 10px;
+    display: flex;
+    
+}
+
+.addnew{
+    background-color: rgb(41, 41, 250);
+    position:relative
+    
+}

@@ -1,0 +1,62 @@
+.info{
+    width :100%;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 3ch;
+    color: white;
+    
+
+}
+.money{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.item{
+    flex:1;
+    margin: 0px 20px;
+
+padding:30px;
+border-radius: 10px;
+}
+.one{
+    background-color: rgb(75, 75, 245);
+}
+.two{
+    background-color: rgb(152, 152, 247);
+}
+.three{
+    background-color: rgb(199, 159, 236);
+}
+.four{
+    background-color: rgb(111, 236, 194);
+}
+.content{
+    margin: 10px;
+   
+    padding: 10px;
+    
+    width: 98%;
+    height:calc(100vh - 80px);
+    background-color: rgb(242, 243, 236);
+    
+}
+
+.chartbox{
+    margin-top:50px;
+    display:flex;
+    
+    justify-content: space-between;
+    
+}
+.barchart{
+    flex: 1;
+}
+.piechart1{
+    flex: .5;
+    padding: 0px;
+    align-content: center;
+}
+.piechart2{
+    flex: .5;
+}

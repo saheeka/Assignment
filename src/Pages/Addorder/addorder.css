@@ -1,0 +1,22 @@
+.addorder{
+    flex: 4;
+    padding: 20px;
+    margin:10px;
+    background-color: rgb(242, 243, 236);
+    
+}
+.form{
+    background-color: white;
+    padding: 20px;
+}
+.order{
+
+    font-size: 30px;
+}
+.row1, .row2{
+    display: flex;
+    justify-content: space-between;
+}
+.phone, .address{
+    padding-left: 10px;
+}
